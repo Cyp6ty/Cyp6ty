@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sauli</h1>
-<h3 align="center">A IT engineering student from Finland</h3>
+<h3 align="center">an IT-engineering student from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyp6ty&label=Profile%20views&color=0e75b6&style=flat" alt="cyp6ty" /> </p>
 
